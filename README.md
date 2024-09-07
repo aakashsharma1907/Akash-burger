@@ -1,5 +1,5 @@
 # Custom Burger
-http://bit.ly/customBurger
+
 
 This is my first ReactJs Project.
 
@@ -11,4 +11,3 @@ Custom Burger is a custom burger building react app that allows users to build t
 * Checkout page: This is a confirmation page. Users can preview their customized burger and confirm their order.
 * Add Details page: Users need to enter their details for placing the order.
 
-### Website link: [Custom Burger](https://customburger-eeea9.web.app/)
